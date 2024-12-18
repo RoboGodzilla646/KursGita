@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    printf("sadasda");
     printf("dziala");
     return 0;
 }
