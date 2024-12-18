@@ -1,7 +1,13 @@
 #include <stdio.h>
 int main()
 {
+    dfdsfsdf
+    sdf
+    sdffdsf
+    
     printf("sadasda");
     printf("dziala");
     return 0;
 }
+
+
